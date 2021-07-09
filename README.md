@@ -11,3 +11,5 @@ This tool helps to find out the selected gene variants of interest from a huge r
 8. Confirm the gene List name.
 9. Enter the Directory of Annotated directory as: ./annotated/
 10.Press Enter and View the result in LibreCalc or MS Excel 
+
+(Cite the URL)
